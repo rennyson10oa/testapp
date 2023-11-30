@@ -37,7 +37,7 @@ version = 0.0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3, kivy==master, https://github.com/kivymd/KivyMD/archive/master.zip
+requirements = python3, kivy==master, kivymd
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
